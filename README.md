@@ -6,7 +6,7 @@ I follow the tutorial [Le Langage C](https://zestedesavoir.com/tutoriels/755/le-
 
 ## My progress
 
-- [x] I) Les bases du langage C
+- [ ] I) Les bases du langage C
   1. [x] 1.1. Présentation
   2. [x] 1.2. Les outils
   3. [x] 1.3. Les variables
